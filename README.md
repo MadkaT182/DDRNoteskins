@@ -9,11 +9,15 @@ This information include a bit of information of the NoteSkin, and the game/syst
 
 **ANGELFISH:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
+**beatmania:** Made its appearance in DDR2nd Mix Dreamcast. *(Dreamcast)*
+
 **BEE:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
 **BIRD:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
 **Butterfly:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
+
+**CLASSIC:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
 **CYBER:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
@@ -35,6 +39,8 @@ This information include a bit of information of the NoteSkin, and the game/syst
 
 **LOTUS:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
+**MEDIUM:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
+
 **MORNINGGLORY:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
 **NORMAL:** Made its appearance in DDR MAX series. *(PS2/Arcade)*
@@ -44,6 +50,8 @@ This information include a bit of information of the NoteSkin, and the game/syst
 **PLaNET:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
 **RAGE:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
+
+**RAGE3rd:** Made its appearance in DDR3rd Mix. *(PSX/Arcade)*
 
 **S-CORE:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
@@ -60,6 +68,8 @@ This information include a bit of information of the NoteSkin, and the game/syst
 **UM7:** Made its appearance in Ultramix series. *(Xbox)*
 
 **UM8:** Made its appearance in Ultramix series. *(Xbox)*
+
+**UM9:** Made its appearance in Ultramix series. *(Xbox)*
 
 **VicViper:** Made its appearance in SuperNOVA/X series. *(PS2/Arcade)*
 
